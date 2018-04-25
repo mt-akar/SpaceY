@@ -2,11 +2,18 @@ import random
 import string
 import time
 
-for j in range(1):
+for j in range(40):
     outFile = open("guess.txt", "w")
     for i in range(25):
         outFile.write(random.choice(string.ascii_uppercase))
     outFile.close()
+
+    time.sleep(1)
+
+    outFile = open("eventLog.txt", "a")
+    outFile.write("I am doing something\n")
+    outFile.close()
+
     time.sleep(1)
 
 

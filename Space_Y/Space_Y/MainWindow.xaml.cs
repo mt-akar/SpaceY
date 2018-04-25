@@ -20,6 +20,7 @@ namespace Space_Y
     {
         static Square[,] a = new Square[5, 5];
         static string[,] sol = new string[5, 5];
+        static bool[,] revealed = new bool[5, 5];
         int exceptionNumber = 0;
 
         public MainWindow()
@@ -44,6 +45,8 @@ namespace Space_Y
                         a[i, j] = new Square(i, j, writeLay, Color.FromArgb(255, 255, 255, 255));
                     }
                     sol[i, j] = ((char)solutionReader.Read()).ToString();
+
+                    revealed[i, j] = false;
                 }
             }
             layoutReader.Close();
@@ -105,7 +108,10 @@ namespace Space_Y
             {
                 for (int j = 0; j < 5; j++)
                 {
-                    a[i, j].Text = ((char)sr0.Read()).ToString();
+                    if (!revealed[i, j])
+                        a[i, j].Text = ((char)sr0.Read()).ToString();
+                    else
+                        sr0.Read();
                 }
             }
             sr0.Close();
@@ -122,17 +128,18 @@ namespace Space_Y
                 }
                 sr1.Close();
             }
-            catch (Exception E)
+            catch
             {
                 Console.WriteLine("Exception caugth {0}", exceptionNumber++);
             }
+        }
 
-            /*
-            while (true)
-            {
-                System.Threading.Thread.Sleep(1000);
-            }
-            */
+        private void Reveal(object sender, RoutedEventArgs e)
+        {
+            Square cur = (Square)((VisualTreeHelper.GetParent(sender as DependencyObject)).GetValue(DataContextProperty));
+            cur.BackgroundColor.Color = Color.FromArgb(255, 255, 229, 226);
+            cur.Text = sol[cur.Row, cur.Column];
+            revealed[cur.Row, cur.Column] = true;
         }
 
         private void Show_Solution(object sender, RoutedEventArgs e)

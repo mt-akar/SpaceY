@@ -108,5 +108,8 @@
   <ItemGroup>
     <Resource Include="spacey-icon.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="script.py" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

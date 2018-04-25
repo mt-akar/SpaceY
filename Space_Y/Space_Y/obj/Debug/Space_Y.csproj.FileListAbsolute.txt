@@ -32,3 +32,4 @@ C:\SpaceY\Space_Y\Space_Y\obj\Debug\Space_Y.csproj.GenerateResource.Cache
 C:\SpaceY\Space_Y\Space_Y\obj\Debug\Space_Y.csproj.CoreCompileInputs.cache
 C:\SpaceY\Space_Y\Space_Y\obj\Debug\Space_Y.exe
 C:\SpaceY\Space_Y\Space_Y\obj\Debug\Space_Y.pdb
+C:\SpaceY\Space_Y\Space_Y\obj\Debug\Space_Y_Content.g.cs

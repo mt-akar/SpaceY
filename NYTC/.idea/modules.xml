@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/NYTC.iml" filepath="$PROJECT_DIR$/.idea/NYTC.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/NeuralNetProject1/.idea/NeuralNetProject1.iml" filepath="$USER_HOME$/PycharmProjects/NeuralNetProject1/.idea/NeuralNetProject1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../wpfTrial/.idea/wpfTrial.iml" filepath="$PROJECT_DIR$/../wpfTrial/.idea/wpfTrial.iml" />
     </modules>
   </component>

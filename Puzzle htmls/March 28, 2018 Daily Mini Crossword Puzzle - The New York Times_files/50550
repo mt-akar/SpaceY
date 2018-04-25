@@ -1,0 +1,223 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 257494,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1038722,
+     "timestamp": 1520159306
+    }
+    ]
+  },
+  {
+    "campaign": 221329,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 222813,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "KXFnCO_SpX4QyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1038720,
+     "timestamp": 1520159306
+    }
+    ]
+  },
+  {
+    "campaign": 237079,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "iNciCO_j2nsQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1021877,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 221924,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "Qn4pCJW7nXoQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1021886,
+     "timestamp": 1522243181
+    }
+    ]
+  },
+  {
+    "campaign": 221241,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 240943,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "1Re8CL-siXwQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1522243165
+    },
+    {
+     "categoryID": 1146150,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 240910,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "mp4HCO6uiXwQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1068961,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 216281,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "u3cNCOfI0XkQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 222811,
+    "campaignId": "222811|237079|216281|221924|240945|240943|222813|221331|240910|228278|257494|224163|221922|221329|221258|221257|221252|221241|221227",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1046077,
+     "timestamp": 1522243141
+    }
+    ]
+  },
+  {
+    "campaign": 221922,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1021886,
+     "timestamp": 1522243181
+    }
+    ]
+  },
+  {
+    "campaign": 221331,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1038720,
+     "timestamp": 1520159306
+    }
+    ]
+  },
+  {
+    "campaign": 240945,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "2LoECIi08nsQyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 221257,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1048741,
+     "timestamp": 1520159306
+    }
+    ]
+  },
+  {
+    "campaign": 228278,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "IsVWCMvUln4QyL734AM",
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 221258,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1048741,
+     "timestamp": 1520159306
+    }
+    ]
+  },
+  {
+    "campaign": 224163,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1021877,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 221252,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1522243165
+    }
+    ]
+  },
+  {
+    "campaign": 221227,
+    "timestamp": 1522243195,
+    "categories": [
+    {
+     "categoryID": 1046077,
+     "timestamp": 1522243141
+    }
+    ]
+  }
+ ]
+};
