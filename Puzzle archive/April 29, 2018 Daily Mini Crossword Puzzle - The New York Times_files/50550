@@ -1,0 +1,147 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 221252,
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1525036386
+    }
+    ]
+  },
+  {
+    "campaign": 222811,
+    "campaignId": "222811|216281|221924|240945|240943|240910|228278|221922|221329|221252|221241|221227",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1046077,
+     "timestamp": 1525036391
+    }
+    ]
+  },
+  {
+    "campaign": 216281,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "u3cNCOfI0XkQyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1525036365
+    }
+    ]
+  },
+  {
+    "campaign": 221329,
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1525036386
+    }
+    ]
+  },
+  {
+    "campaign": 221922,
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1021880,
+     "timestamp": 1525036391
+    }
+    ]
+  },
+  {
+    "campaign": 221227,
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1046077,
+     "timestamp": 1525036391
+    }
+    ]
+  },
+  {
+    "campaign": 240910,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "mp4HCO6uiXwQyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1068961,
+     "timestamp": 1525036386
+    }
+    ]
+  },
+  {
+    "campaign": 240945,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "2LoECIi08nsQyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1525036365
+    }
+    ]
+  },
+  {
+    "campaign": 221241,
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1525036365
+    }
+    ]
+  },
+  {
+    "campaign": 228278,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "IsVWCMvUln4QyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1525036386
+    }
+    ]
+  },
+  {
+    "campaign": 240943,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "1Re8CL-siXwQyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 997863,
+     "timestamp": 1525036365
+    },
+    {
+     "categoryID": 1146150,
+     "timestamp": 1525036386
+    }
+    ]
+  },
+  {
+    "campaign": 221924,
+    "amp;guid": "ON",
+    "amp;script": "0",
+    "label": "Qn4pCJW7nXoQyL734AM",
+    "timestamp": 1525036408,
+    "categories": [
+    {
+     "categoryID": 1021880,
+     "timestamp": 1525036391
+    }
+    ]
+  }
+ ]
+};
