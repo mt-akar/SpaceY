@@ -1,9 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-
-#request = urlopen("https://www.nytimes.com/crosswords/game/mini")
-#soup = BeautifulSoup(request.read(), 'html.parser')
-#request.close()
+# Change the following line to the date of the puzzle you want to solve
 soup = BeautifulSoup(open("C:\\SpaceY\\Puzzle htmls\\March 9, 2018 Daily Mini Crossword Puzzle - The New York Times.html"), 'html.parser')
 #print(soup.prettify())
 w=8
